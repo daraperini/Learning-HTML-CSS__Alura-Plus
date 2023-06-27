@@ -1,6 +1,8 @@
 # Alura+
 Olá! Este é meu segundo projeto Front-end e consiste em um serviço de streaming.
 
+Para acessar o resultado final da página, clique [aqui](https://alura-plus-self-omega-83.vercel.app/).
+
 ## Ferramentas utilizadas:
 
 * HTML
