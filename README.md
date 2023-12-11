@@ -9,7 +9,7 @@ To see the final result, click [here](https://alura-plus-self-omega-83.vercel.ap
 * HTML
 * CSS
 * Grid
-* Flex Box
+* Flexbox
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -26,4 +26,4 @@ Para acessar o resultado final da página, clique [aqui](https://alura-plus-self
 * HTML
 * CSS
 * Grid
-* Flex Box
+* Flexbox
