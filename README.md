@@ -1,6 +1,6 @@
 # Alura+
 
-Hi there! This is my second Front-end project and ut consists in an streaming service created during the Alura's class *HTML and CSS: practicing HTML/CSS*. This project does not has interactivity as only the main page has been developed as a way to practice HTML and CSS.
+Hi there! This is my second Front-end project and it consists in an streaming service created during the Alura's class *HTML and CSS: practicing HTML/CSS*. This project does not has interactivity as only the main page has been developed as a way to practice HTML and CSS.
 
 To see the final result, click [here](https://alura-plus-self-omega-83.vercel.app/).
 
